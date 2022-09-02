@@ -22,13 +22,13 @@ Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. 😇.
 ##
 ### Installation
 #### Deploy on Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ferdiansyah56/Single-File)</br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ferdiansyah56/File-Share-Single)</br>
 
 
 #### Deploy in your VPS
 ````bash
-git clone https://github.com/ferdiansyah56/Single-File
-cd Single-File
+git clone https://github.com/ferdiansyah56/File-Share-Single
+cd File-Share-Single
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
 python3 main.py
